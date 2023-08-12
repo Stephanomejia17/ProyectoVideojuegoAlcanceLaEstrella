@@ -3,5 +3,5 @@
 Integrantes:
 
 - Walter Stephano Mejia Morales
-- Lenin 
+- Lenin Ospina Lamprea
 - Juan Simón Uribe
