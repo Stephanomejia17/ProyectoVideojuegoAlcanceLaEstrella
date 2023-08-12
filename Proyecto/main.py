@@ -125,6 +125,9 @@ if eleccion == 1:
                 if dado == 0:
                     break
 
+
+
+
         print(pos_p1, pos_p2)
         print(tablero[0])
         print(tablero[1])
